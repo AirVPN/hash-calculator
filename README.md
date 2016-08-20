@@ -7,7 +7,7 @@ MD5-SHA1-SHA256-SHA512 File Hash Calculator
 
 For Microsoft Windows. Run under Linux and OS X with Mono.
 
-Maded for AirVPN Community
+Made for AirVPN Community
 https://airvpn.org/faq/software_signatures/
 
 Released under GPL3
